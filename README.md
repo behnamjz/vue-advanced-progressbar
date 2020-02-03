@@ -36,4 +36,4 @@ Vue.use(VueAdvancedProgressbar)
 |    Property    |    Description   |   type   | values |	default	|
 | -----------------  | ---------------- | :--------: | | :--------: | :----------: |
 | position         | position of progressabr start from there | left | right-left-center | String |
-| height  | progressbar height | Number | |
+| height  | progressbar height | Number | | |
