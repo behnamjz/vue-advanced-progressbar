@@ -1,0 +1,29 @@
+{
+  "name": "vue-advanced-progressbar",
+  "version": "1.0.0",
+  "description": "> Advanced page scroll progress bar",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "_resolved": "https://registry.npmjs.org/vue-countup-full/-/vue-countup-full-1.0.8.tgz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behnamjz/vue-scroll-progressbar.git"
+  },
+  "keywords": [
+    "vue",
+    "scroll progressbar",
+    "nuxt",
+    "vue-scroll",
+    "vue-scroll-progressbar",
+    "vue-full-scroll-progressbar",
+    "vue-advanced-progressbar"
+  ],
+  "author": "behnam jaberi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behnamjz/vue-scroll-progressbar/issues"
+  },
+  "homepage": "https://github.com/behnamjz/vue-scroll-progressbar"
+}
