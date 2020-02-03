@@ -31,3 +31,9 @@ Vue.use(VueAdvancedProgressbar)
   <VueAdvancedProgressbar></VueAdvancedProgressbar>
 </template>
 ```
+
+### Options
+|    Property    |    Description   |   type   |	default	|
+| -----------------  | ---------------- | :--------: | :----------: |
+| position         | position of progressabr start from there | left | String|
+| height  | progressbar height | Number | |
